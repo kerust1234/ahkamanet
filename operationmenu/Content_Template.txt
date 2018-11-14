@@ -1,0 +1,41 @@
+﻿<div class="rft_home_describe"></div>
+
+<div class="rft_home_describe"></div>
+<div class="rft_home_describe"></div>
+<div class="rft_home_describe"></div>
+<div class="rft_home_describe"></div>
+<div class="rft_home_describe"></div>
+
+<ul class=""rft_cricle rft_personal"">
+<li><span></span></li>
+<li><span></span></li>
+<li><span></span></li>
+<li><span></span></li>
+<li><span></span></li>
+<li><span></span></li>
+</ul>
+
+
+
+<div class="rft_Nutrillite_img rft_nutrilite"><p class="rft_wellness"><a href=""></a></p></div>
+
+
+<div class="rft_Nutrillite_img rft_nutrilite">
+<p class="rft_four text-list"><a></a></p><div class="foundational video-list"><video id="azuremediaplayer1"class="azuremediaplayer amp-default-skin amp-big-play-centered"src=""data-config='{"nativeControlsForTouch": false,"controls": true,"autoplay": false,"width": "100%","height": "400px","poster": "http://ps4hkecompd.blob.core.chinacloudapi.cn/ahk-home/PC_DefaultImage4V-3.jpg","logo": {"enabled": false}}'></video></div>
+<p class="rft_four text-list"><a></a></p><div class="foundational video-list"><video id="azuremediaplayer2"class="azuremediaplayer amp-default-skin amp-big-play-centered"src=""data-config='{"nativeControlsForTouch": false,"controls": true,"autoplay": false,"width": "100%","height": "400px","poster": "http://ps4hkecompd.blob.core.chinacloudapi.cn/ahk-home/PC_DefaultImage4V-3.jpg","logo": {"enabled": false}}'></video></div>
+<p class="rft_four text-list"><a></a></p><div class="foundational video-list"><video id="azuremediaplayer3"class="azuremediaplayer amp-default-skin amp-big-play-centered"src=""data-config='{"nativeControlsForTouch": false,"controls": true,"autoplay": false,"width": "100%","height": "400px","poster": "http://ps4hkecompd.blob.core.chinacloudapi.cn/ahk-home/PC_DefaultImage4V-3.jpg","logo": {"enabled": false}}'></video></div>
+<p class="rft_wellness"><a href=""></a></p>
+</div>
+
+<li><b class="rft_home_b">安利Atmosphere&trade;空氣清新機的空氣濾淨量是多少？</b>
+<div>
+<div class="frt_air">空氣濾淨量（CADR,Clean Air Delivery Rate）用以評定空氣清新機的濾淨效能以及輸出潔淨空氣的體積，下表顯示不同風速每分鐘輸出的清新空氣量：</div>
+<table cellspacing="0"cellpadding="0"class="rft_home_table2 rft_windOrcard"><tbody>
+<tr><td class="rft_speed"align="center"><b>風速</b></td><td class="rft_cadr"align="center"><b>空氣濾淨量(CADR)</b></td></tr>
+<tr><td align="center">1</td><td align="center">50 cfm(1.4 m<sup>3</sup>/min.)</td></tr>
+<tr><td align="center">2</td><td align="center">100 cfm(2.8 m<sup>3</sup>/min.)</td></tr>
+<tr><td align="center">3</td><td align="center">150 cfm(4.2 m<sup>3</sup>/min.)</td></tr>
+<tr><td align="center">4</td><td align="center">200 cfm(5.7 m<sup>3</sup>/min.)</td></tr>
+<tr><td align="center">5或『超高速』</td><td align="center">250 cfm(7.1 m<sup>3</sup>/min.)</td></tr>
+<tr><td class="rft_explian"colspan="2"><div>CADR=每分鐘輸出的清新空氣量（Volume of purified air delivered per minute）</div><div>cfm=每分鐘立方呎（Cubic feet per minute）</div><div>m<sup>3</sup>/min.=每分鐘立方米（Cubic meters per minute）</div></td></tr>
+</tbody></table></div></li>
